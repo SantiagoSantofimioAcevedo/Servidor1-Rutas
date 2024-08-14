@@ -1,0 +1,23 @@
+{
+  "name": "servidor-1-type",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/sqlite3": "^3.1.11",
+    "typescript": "^5.5.4"
+  },
+  "dependencies": {
+    "@types/express": "^4.17.21",
+    "@types/node": "^22.2.0",
+    "express": "^4.19.2",
+    "sqlite3": "^5.1.7",
+    "ts-node": "^10.9.2"
+  }
+}
